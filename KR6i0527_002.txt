@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:49.982772
+#+DATE: 2015-08-30 20:21:51.784625
 #+TITLE: 大方廣如來祕密藏經
 #+PROPERTY: CBETA_ID T17n0821
 #+PROPERTY: ID KR6i0527
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 821
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0527_T_000-0837b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0527_T_002-0841c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《大方廣如來祕密藏經》卷下¶
+《大方廣如來祕密藏經》卷下¶
 ¶
 失譯人名附三秦錄¶
 
@@ -350,8 +349,7 @@
 縛？迦葉！所言縛者，所謂貪著。云何為解？謂不¶
 貪著，不分別二。迦葉！我今不說是無著者名¶
 之為犯。何以故？迦葉！羸劣煩惱從虛妄生。迦¶
-葉！若其不實不以生故，名之為實。迦葉！我¶
-今引喻為示不實妄想事故。迦葉！猶如人天¶
+葉！若其不實不以生故，名之為實。迦葉！我今引喻為示不實妄想事故。迦葉！猶如人天¶
 持芥子火吹令增長，漸燒諸物成大火聚。如¶
 是迦葉！愚小凡夫起少不正思惟妄念，堅著¶
 諸見隨所妄想，隨是諸處增長結使。迦葉！若¶
