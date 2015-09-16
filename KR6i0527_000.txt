@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大方廣如來祕密藏經
+#+DATE: 2015-08-30 20:21:50.212048
+#+PROPERTY: JUAN 0
