@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 821
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0527_T_000-0837b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0527_T_002-0841c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
@@ -45,7 +45,7 @@
 
 #+BEGIN_VERSE
 「　「所造以智不以慢，
-　迴善上道非下乘；¶
+　迴善上道非下乗；¶
 　慧者不信於諸有，
 　發心為利諸眾生。¶
 　晝日三時夜亦爾！
